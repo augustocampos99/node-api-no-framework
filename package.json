@@ -1,0 +1,14 @@
+{
+  "name": "api-no-framework",
+  "version": "1.0.0",
+  "description": "Node rest api without framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

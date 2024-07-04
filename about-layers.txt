@@ -1,0 +1,10 @@
+- src - source code
+- entities - object mapping
+- factories - instance generators
+- repositories - data access
+- routes - endpoint mapping
+- services - business logic
+- util - shared code
+- handler - communication between router and server
+- tests - all automated tests suites 
+
